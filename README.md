@@ -49,9 +49,3 @@ Even after succeeding in the Order exam of 2021 (Law institution in Brazil), I r
 
 
 * ✉️  You can contact me at [gabrielasaf10@gmail.com](mailto:gabriel.asaf@recicla.club)
-
-<p align="right"> <a href="https://www.github.com/AsafGontijo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gabriel-asaf/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-<b align="center">My GitHub Stats</b>
-
-<a href="http://www.github.com/AsafGontijo"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asafworld&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/AsafGontijo" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asafworld&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
