@@ -48,12 +48,10 @@ Besides those fields, I’ve also deepened myself into the studies of the relati
 Even after succeeding in the Order exam of 2021 (Law institution in Brazil), I risked it all and started the process to change my career. In 2022 I got accepted into Trybe (A software development school, focused on the web) and started to learn more about programming on the server side and the client side. Since then, I’ve been happily developing myself more both in the hard skills required by the dev market, and the soft skills needed to be a better worker and co-worker.
 
 
-
-* 🖥️  See my portfolio at [Portifolio](http://asafsportifolio.herokuapp.com/)
-* ✉️  You can contact me at [gabrielasaf10@gmail.com](mailto:gabrielasaf10@gmail.com)
+* ✉️  You can contact me at [gabrielasaf10@gmail.com](mailto:gabriel.asaf@recicla.club)
 
 <p align="right"> <a href="https://www.github.com/AsafGontijo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gabriel-asaf/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <b align="center">My GitHub Stats</b>
 
-<a href="http://www.github.com/AsafGontijo"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asafworld&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/asafworld" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asafworld&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/AsafGontijo"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asafworld&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/AsafGontijo" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asafworld&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
